@@ -1,6 +1,3 @@
-<img src="public/images/belerick.png" alt="Laravel Logo">
-
-
 # 🏨 Simple Hotel Management System  
 
 A Laravel-based **Hotel Management System** that allows users to book rooms, manage reservations, and handle hotel operations efficiently.  
