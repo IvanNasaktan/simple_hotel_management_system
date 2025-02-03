@@ -1,3 +1,1 @@
-<img src="{{ asset('images/belerick.png') }}">
-
-##Welcome
+<img src="images/belerick.png">
