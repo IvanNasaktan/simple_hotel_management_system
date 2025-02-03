@@ -23,7 +23,7 @@ class EmployeeAuthController extends Controller
 
         // Authenticate the user
         if (Auth::attempt(['email' => $request->email, 'password' => $request->password])) {
-            return view('employee.home'); // Redirect to dashboard
+            return redirect()->route('employee.home'); // Redirect to dashboard
         }
 
         return back()->withErrors(['email' => 'Invalid credentials']);

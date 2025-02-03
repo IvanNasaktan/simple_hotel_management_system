@@ -34,11 +34,11 @@ body{
     position: absolute;
     top: 0px;
     left: 400px; /* Start position */
-    background: rgb(161,227,249);
-    background: -moz-linear-gradient(100deg, rgba(161,227,249,1) 0%, rgba(87,143,202,1) 49%, rgba(54,116,181,1) 100%);
-    background: -webkit-linear-gradient(100deg, rgba(161,227,249,1) 0%, rgba(87,143,202,1) 49%, rgba(54,116,181,1) 100%);
-    background: linear-gradient(100deg, rgba(161,227,249,1) 0%, rgba(87,143,202,1) 49%, rgba(54,116,181,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#a1e3f9",endColorstr="#3674b5",GradientType=1);
+    background: rgb(244,255,195);
+    background: -moz-linear-gradient(100deg, rgba(244,255,195,1) 0%, rgba(169,196,108,1) 48%, rgba(128,157,60,1) 100%) !important;
+    background: -webkit-linear-gradient(100deg, rgba(244,255,195,1) 0%, rgba(169,196,108,1) 48%, rgba(128,157,60,1) 100%) !important;
+    background: linear-gradient(100deg, rgba(244,255,195,1) 0%, rgba(169,196,108,1) 48%, rgba(128,157,60,1) 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4ffc3",endColorstr="#809d3c",GradientType=1) !important;
     border-radius: 5px;
     transition: left 1s ease-in-out; /* Add smooth transition */
 }
