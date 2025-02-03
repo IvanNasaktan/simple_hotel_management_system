@@ -24,6 +24,7 @@ Follow these steps to set up the project:
 ### 1️⃣ Clone the Repository  
 
     git clone https://github.com/IvanNasaktan/simple_hotel_management_system.git
+
     cd simple_hotel_management_system
 
 
