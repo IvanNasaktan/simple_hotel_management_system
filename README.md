@@ -5,7 +5,7 @@
 
 A Laravel-based **Hotel Management System** that allows users to book rooms, manage reservations, and handle hotel operations efficiently.  
 
-![Hotel Management](https://raw.githubusercontent.com/IvanNasaktan/simple_hotel_management_system/main/public/images/belerick.png)
+![Hotel Management](public/images/belerick.png)
 
 ---
 
