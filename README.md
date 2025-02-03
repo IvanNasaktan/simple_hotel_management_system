@@ -25,6 +25,7 @@ Follow these steps to set up the project:
 
     git clone https://github.com/IvanNasaktan/simple_hotel_management_system.git
 
+### then open the folder in vscode with this command:
     cd simple_hotel_management_system
 
 
